@@ -7,6 +7,7 @@ public class repo {
 	 name = "baryalai";
 
 	 System.out.println(name);
+		int a = 10;
 	}
 
 }

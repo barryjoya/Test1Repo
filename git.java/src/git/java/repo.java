@@ -6,6 +6,7 @@ public class repo {
 	 String name;
 	 name = "baryalai";
 
+	 System.out.println(name);
 	}
 
 }

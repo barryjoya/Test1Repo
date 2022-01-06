@@ -8,6 +8,10 @@ public class repo {
 
 	 System.out.println(name);
 		int a = 10;
+		int c = 10;
+		
+		System.out.println(a+c);
+		
 	}
 
 }
